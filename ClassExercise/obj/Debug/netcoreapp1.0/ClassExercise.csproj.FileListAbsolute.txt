@@ -1,0 +1,5 @@
+C:\Users\Lakeitra Coleman\source\repos\ClassExercise\ClassExercise\obj\Debug\netcoreapp1.0\ClassExercise.csproj.AssemblyReference.cache
+C:\Users\Lakeitra Coleman\source\repos\ClassExercise\ClassExercise\obj\Debug\netcoreapp1.0\ClassExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lakeitra Coleman\source\repos\ClassExercise\ClassExercise\obj\Debug\netcoreapp1.0\ClassExercise.AssemblyInfoInputs.cache
+C:\Users\Lakeitra Coleman\source\repos\ClassExercise\ClassExercise\obj\Debug\netcoreapp1.0\ClassExercise.AssemblyInfo.cs
+C:\Users\Lakeitra Coleman\source\repos\ClassExercise\ClassExercise\obj\Debug\netcoreapp1.0\ClassExercise.csproj.CoreCompileInputs.cache
